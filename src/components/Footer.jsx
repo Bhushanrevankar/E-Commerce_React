@@ -14,7 +14,7 @@ const Footer = () => {
                 rel="noreferrer"
               >
                
-                {" "} <span className="fs-6">BHUSHAN REVANKAR</span>{""}
+                {" "} <span className="fs-6">Bhushan Revankar</span>{""}
                 <span className="fs-6 ms-2"><i className="fa fa-github"></i></span>
               </a>
             </p>
